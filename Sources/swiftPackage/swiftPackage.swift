@@ -2,7 +2,7 @@
 // https://docs.swift.org/swift-book
 import Foundation
 
-class swiftPackage {
+public class swiftPackage {
     public var val1: Int
     private var val2: Int
     public var var3:String {
